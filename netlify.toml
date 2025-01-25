@@ -1,5 +1,11 @@
 [build]
-  command = "pip install --user -r requirements.txt && pelican content -o output -s publishconf.py"
+  command = """
+    python -m venv .venv &&
+    . .venv/bin/activate &&
+    pip install --upgrade pip &&
+    pip install -r requirements.txt &&
+    pelican content -o output -s publishconf.py
+  """
   publish = "output"
 
 [[redirects]]
