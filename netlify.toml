@@ -1,0 +1,8 @@
+[build]
+  command = "pip install --user -r requirements.txt && pelican content -o output -s publishconf.py"
+  publish = "output"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
