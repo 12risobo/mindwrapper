@@ -1,6 +1,7 @@
 [build]
   command = """
     python -m venv .venv &&
+    git submodule update --init --recursive &&
     . .venv/bin/activate &&
     pip install --upgrade pip &&
     pip install -r requirements.txt &&
