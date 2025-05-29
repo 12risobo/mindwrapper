@@ -4,7 +4,7 @@
 
 
 > [!QUOTE] 
-> Blaat zei de blaataap, aanpassing, aanpassing 2, aanpassing 3
+> Blaat zei de blaataap, aanpassing, aanpassing 2, aanpassing 3, opent ie browser?
 
 
 
