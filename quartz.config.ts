@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "/mindwrapper",
+    baseUrl: "/mindwrapper", // ✅ al goed ingesteld
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -52,6 +52,8 @@ const config: QuartzConfig = {
         },
       },
     },
+    // ✅ toegevoegde regel
+    linkResolution: "relative",
   },
   plugins: {
     transformers: [
@@ -95,3 +97,4 @@ const config: QuartzConfig = {
 }
 
 export default config
+
