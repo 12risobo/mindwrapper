@@ -4,7 +4,7 @@
 
 
 > [!QUOTE] 
-> Blaat zei de blaataap
+> Blaat zei de blaataap, aanpassing
 
 
 
