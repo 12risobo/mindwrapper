@@ -7,7 +7,8 @@
 > Blaat zei de blaataap, aanpassing, aanpassing 2, aanpassing 3, opent ie browser? nieuwe locatie script
 
 
-
+### 2025-05-30
+Aanvulling
 
 
 ![](2025-05-25_google-photo_180631.jpg)
