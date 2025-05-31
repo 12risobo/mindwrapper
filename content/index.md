@@ -7,6 +7,7 @@
 > Blaat zei de blaataap, aanpassing, aanpassing 2, aanpassing 3, opent ie browser? nieuwe locatie script
 
 [[2_Areas/blog/test|test]]
+[[About me]]
 ### 2025-05-31
 
 Weer een aanvulling om te testen
