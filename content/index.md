@@ -2,11 +2,9 @@
 
 [[2_Areas/blog/test]]
 
-[[test]]
 > [!QUOTE] 
 > Blaat zei de blaataap, aanpassing, aanpassing 2, aanpassing 3, opent ie browser? nieuwe locatie script
 
-[[2_Areas/blog/test|test]]
 [[About me]]
 ### 2025-05-31
 
