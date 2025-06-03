@@ -1,4 +1,4 @@
-I am mindwrapper. On this blog I share the things I wrap my mind around and how I wrap it around.
+I am mindwrapper. On this blog I share the things I wrap my mind around and how I wrap it around. Indeed. 
 
 [[index|Mindwrapper]]
 
