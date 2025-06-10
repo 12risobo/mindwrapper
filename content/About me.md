@@ -1,6 +1,6 @@
 I am mindwrapper. On this blog I share the things I wrap my mind around and how I wrap it around. Indeed. 
 
-[[index|Mindwrapper]]
+[[2_Areas/blog/index|Mindwrapper]]
 
 Favourite software:
 [Obsidian](https://obsidian.md/)
