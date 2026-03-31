@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "12risobo.github.io/mindwrapper",
+    baseUrl: "mindwrapper.net",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
